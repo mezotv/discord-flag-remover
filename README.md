@@ -1,6 +1,6 @@
 # 🚀 Discord Flag Remover
 
-A **lightweight** and **customizable** Discord bot written in **Go**, built to automatically detect and remove flag emoji reactions — ensuring a cleaner, more neutral community space.
+A **lightweight** and **customizable** Discord bot written in **Go**, built to automatically detect and remove flag emoji reactions.
 
 ## 🔥 Why Use This Bot?
 
