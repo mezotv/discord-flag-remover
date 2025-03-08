@@ -1,21 +1,18 @@
-# Discord Flag Remover
+# 🚀 Discord Flag Remover
 
-A small discord bot to remove flag emojis on discord messages, lightweight, custimizable and written in go.
+A **lightweight** and **customizable** Discord bot written in **Go**, built to automatically detect and remove flag emoji reactions.
 
-## Why?
+## 🔥 Why Use This Bot?
 
-Flag emoji reactions on Discord can sometimes be used for unwanted political messaging or to create divisive interactions in communities. This bot helps maintain a neutral environment by automatically removing flag emoji reactions according to your server's preferences.
+Flags can be fun, but they can also be used in ways that disrupt conversations — whether for unwanted political messaging or divisive interactions. **Discord Flag Remover** helps **moderators** maintain a **neutral and inclusive environment** by automatically detecting and removing flag emoji reactions based on your server's preferences.
 
-## Original Credits
+## 💡 Credits
 
-The repo this was inspired by is <https://github.com/Pukimaa/discord-flag-remover> so shoutout to them!
+This project was inspired by [discord-flag-remover](https://github.com/Pukimaa/discord-flag-remover). Huge thanks to:
+- **Luxica** - Built the base code
+- **Pukima** – Improved the code and published it on GitHub
+- **Emilia** - Came up with the original idea
 
-Luxica - Writing the base code
+## 📜 License
 
-Pukima - Improving the code and putting it on GitHub
-
-Emilia - Idea
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
