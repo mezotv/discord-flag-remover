@@ -1,4 +1,5 @@
 # Discord Flag Remover
+
 A small discord bot to remove flag emojis on discord messages, lightweight, custimizable and written in go.
 
 ## Why?
@@ -15,5 +16,6 @@ Pukima - Improving the code and putting it on GitHub
 
 Emilia - Idea
 
-## License 
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
