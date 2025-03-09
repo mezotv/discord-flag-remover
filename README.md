@@ -9,6 +9,7 @@ Flags can be fun, but they can also be used in ways that disrupt conversations �
 ## 💡 Credits
 
 This project was inspired by [discord-flag-remover](https://github.com/Pukimaa/discord-flag-remover). Huge thanks to:
+
 - **Luxica** - Built the base code
 - **Pukima** – Improved the code and published it on GitHub
 - **Emilia** - Came up with the original idea

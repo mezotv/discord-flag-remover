@@ -1,6 +1,6 @@
 module github.com/mezotv/discord-flag-remover
 
-go 1.23.3
+go 1.23
 
 require (
 	github.com/caarlos0/env/v10 v10.0.0

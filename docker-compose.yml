@@ -1,0 +1,9 @@
+services:
+  discord-flag-remover:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: discord-flag-remover
+    restart: unless-stopped
+    env_file:
+      - .env
