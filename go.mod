@@ -1,6 +1,7 @@
 module github.com/mezotv/discord-flag-remover
 
 go 1.23
+toolchain go1.24.1
 
 require (
 	github.com/caarlos0/env/v10 v10.0.0
@@ -13,6 +14,6 @@ require (
 	github.com/disgoorg/snowflake/v2 v2.0.3 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/sasha-s/go-csync v0.0.0-20240107134140-fcbab37b09ad // indirect
-	golang.org/x/crypto v0.31.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 )
